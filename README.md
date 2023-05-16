@@ -1,5 +1,5 @@
 # Analyze-League-of-Legends-Matches-Spark
-*Mini Project 2 of the Big Data Analytics Course Offered in Fall 2022 @ Zewail City
+*Mini Project 2 of the Big Data Analytics Course Offered in Fall 2022 @ Zewail City*
 
 [League of Legends](https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki) (abbreviated LoL or League) is a multiplayer online battle arena video game
 developed and published by Riot Games. Originally inspired by Valve’s Defense of the Ancients
