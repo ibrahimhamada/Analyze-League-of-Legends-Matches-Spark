@@ -43,7 +43,9 @@ We found the total number of matches using the count() function. We found teams 
 
 After that, we started dealing with ranked_matches rdd to find the requirements as follows:
 
-   I) Requirement 1: (Champion pick rate, Champion win rate, and Champion ban rate)
+## Requirements:
+
+### I) Requirement 1: (Champion pick rate, Champion win rate, and Champion ban rate)
 
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/1ed7d025-112a-4f43-bb73-98801d05fcee)
 
@@ -52,24 +54,24 @@ After that, we started dealing with ranked_matches rdd to find the requirements 
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/c0595401-0c2b-4c76-b991-20b0ded12c6e)
 
 
-   II) Requirement 2: (Champion Synergies or duos)
+### II) Requirement 2: (Champion Synergies or duos)
  
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/8067488b-da49-427d-ad68-88ada07495f2)
 
    
-   III) Requirement 3: (Item win rates, item pick rates)
+### III) Requirement 3: (Item win rates, item pick rates)
    
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/829bb6a6-c5ac-42dd-913c-3edd54172eab)
 
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/40e95d2b-437e-4ec7-a504-7d3252928ef9)
 
-   IV) Requirement 4: (Item Synergies (item with champion, item with class))
+### IV) Requirement 4: (Item Synergies (item with champion, item with class))
  
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/a86aae79-2617-4040-8547-ed51d8b71b8e)
 
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/981ad353-63f1-4b24-9a41-3abffa41ced2)
 
-   V) Requirement 5: (Item suggestion)
+### V) Requirement 5: (Item suggestion)
  
     Item Suggestion for Champion “Ekko” with win rate 100% :
     a) Doran's Shield
@@ -86,7 +88,7 @@ After that, we started dealing with ranked_matches rdd to find the requirements 
     e) Leeching Leer
    
    
-   VI) Extra Requirement: (Best lane for champion / win rates of different lanes for champions)
+### VI) Extra Requirement: (Best lane for champion / win rates of different lanes for champions)
 
 ![image](https://github.com/ibrahimhamada/Analyze-League-of-Legends-Matches-Spark/assets/58476343/e29dc56a-0bbb-43dc-aa99-20412670051c)
 
